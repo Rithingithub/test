@@ -1,0 +1,5 @@
+{{#user}}
+Name: Rithin Lehan T
+Skills: HTML, CSS, JS, Reactjs, Nodejs, Golang, postgresql, SQL
+Email: rithinrithu1439@gmail.com
+{{/user}}
